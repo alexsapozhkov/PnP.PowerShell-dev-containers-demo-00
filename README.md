@@ -21,11 +21,7 @@ For using that option you need to have locally installed the following software:
 
 ### GitHub Codespaces
 
-This option requires the following:
-
-- Visual Studio Code
-- [Visual Studio Code extension, Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-- Git repository in a [GitHub organization with enabled Codespaces](https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/enabling-github-codespaces-for-your-organization)
+This option requires nothing installed locally. Everything is already set up in the cloud.
 
 ## Starting working with PnP.PowerShell when you run Docker locally
 
