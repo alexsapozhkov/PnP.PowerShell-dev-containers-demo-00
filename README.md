@@ -17,7 +17,7 @@ For using that option you need to have locally installed the following software:
 
 - Visual Studio Code
 - [Visual Studio Code extension, Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-- Docker Engine. Kindly use [`Installing Docker locally` section of the `Using PnP PowerShell in Docker containers` arcticle](dev-containers.md) for installation instructions.
+- Docker Engine
 
 ### GitHub Codespaces
 
