@@ -37,8 +37,6 @@ The command should work even if you don't have PnP.PowerShell module installed l
 1. Open the project in GitHub site.
 2. Click `Code` button.
 3. Click `Create codespace on ...` button.
-4. Click `Open this codespace in VS Code Desktop`.
-5. Confirm opening Visual Studio Code.
-6. Run `Connect-PnPOnline -Url https://<your-tenant-name>.sharepoint.com`.
+4. Run `Connect-PnPOnline -Url https://<your-tenant-name>.sharepoint.com`.
 
 The command should work even if you don't have PnP.PowerShell module installed locally on your laptop.
